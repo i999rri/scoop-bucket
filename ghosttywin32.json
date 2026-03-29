@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/i999rri/GhosttyWin32/releases/download/v0.1.0/GhosttyWin32-v0.1.0-x64.zip",
-            "hash": ""
+            "hash": "8cbbe4fc25f367117e1d145a2a578a320962bcbede0166eb233fd68a2818d5f9"
         }
     },
     "bin": "GhosttyWin32\\GhosttyWin32.exe",
