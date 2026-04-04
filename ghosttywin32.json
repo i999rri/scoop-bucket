@@ -9,9 +9,9 @@
             "hash": "5cbc9b87aa3f0a76c5333c3f6b504b9943987f4da9d0fb167a5c7d17aee3cee0"
         }
     },
-    "bin": "GhosttyWin32\GhosttyWin32.exe",
+    "bin": "GhosttyWin32\\GhosttyWin32.exe",
     "shortcuts": [
-        ["GhosttyWin32\GhosttyWin32.exe", "Ghostty"]
+        ["GhosttyWin32\\GhosttyWin32.exe", "Ghostty"]
     ],
     "checkver": {
         "github": "https://github.com/i999rri/GhosttyWin32"
