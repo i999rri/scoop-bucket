@@ -1,12 +1,12 @@
 {
-  "version": "0.2.2",
+  "version": "0.6.0",
   "description": "Windows host for Ghostty terminal emulator (DirectX 11)",
   "homepage": "https://github.com/i999rri/GhosttyWin32",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/i999rri/GhosttyWin32/releases/download/v0.2.2/GhosttyWin32-v0.2.2-x64.zip",
-      "hash": "fcf6edf8f4a66c5ac53cb5dd9636fdfbd92690da0c801fc1c2c4505121d8c16c"
+      "url": "https://github.com/i999rri/GhosttyWin32/releases/download/v0.6.0/GhosttyWin32-v0.6.0-x64.zip",
+      "hash": "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
     }
   },
   "bin": "GhosttyWin32\\GhosttyWin32.exe",
